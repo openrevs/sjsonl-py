@@ -1,0 +1,3 @@
+{"sjsonl":"patch","version":"0.1","base":"51a3b004e0dfe95a72dae9956adc71ae7ae5d94339e2e9bb51ffb702b15a5570","target":"248ee6f0d8cdfa5c6bbed4083a1fbfe5cf226aba1628a2bc659659deccc46596","rm":["7","e"]}
+{"new": "line"}
+{"another": [true, false]}

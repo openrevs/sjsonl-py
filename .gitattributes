@@ -1,0 +1,2 @@
+# Test vectors are byte-exact fixtures (hashes/signatures); never convert line endings.
+tests/vectors/** -text
